@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+:root {
+  --primary: #D7FFE9;
+  --primary-dark: #9DA7EA;
+  --primary-hover: #F4B6C3;
+  --primary-light: #FCF0DD;
+  --background: radial-gradient(circle,rgba(221, 171, 255, 1) 0%, rgba(255, 179, 210, 1) 30%, rgba(255, 205, 140, 1) 60%, rgba(215, 255, 140, 1) 100%);
+  --text-primary: #383154;
+  --text-secondary: #cbd5e1;
+  --text-muted: #b3b6ba;
+  --border: rgba(234, 254, 143, 0.507);
+  --card-bg: #1e293b;
+  --shadow: rgba(0, 0, 0, 0.3);
+  --input-bg: #1e293b;
+  --hsla-example: rgb(188, 220, 251);
+}
